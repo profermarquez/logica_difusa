@@ -37,6 +37,7 @@ pip install pygame
 
 # ejecución
 py ejemplo_logica_dif.py
+
 py control_riego.py
 
 # libreria

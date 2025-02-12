@@ -1,4 +1,6 @@
-# Contexto
+# Contextos
+
+# Problema1:
 Determinar la propina con lógica difusa
 Descripción del problema
 Queremos calcular qué porcentaje de propina dejar basado en dos factores:
@@ -16,6 +18,12 @@ Paso 2: Definir reglas difusas Ejemplo de reglas:
 Si el servicio es malo o la comida es mala, la propina es baja.
 Si el servicio es regular, la propina es media.
 Si el servicio es bueno o la comida es buena, la propina es alta.
+
+# Problema 2
+Un sistema de control de riego, si hace calor se enciende la bomba y
+riega, se puede cambiar la velocidad de la simulación y se tiene en
+cuenta si es de dia o de noche.
+
 
 # Instalar e activar el entorno virtual
 /virtualenv env             /env/Scripts/activate.bat
